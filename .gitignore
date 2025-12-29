@@ -1,0 +1,11 @@
+.pytest_cache/
+__pycache__/
+.venv/
+dist/
+model/
+*.csv
+.DS_Store
+*.png
+TODO*
+playground.py
+*.polars
